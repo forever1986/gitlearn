@@ -20,7 +20,7 @@
           <mxGeometry x="240.81" y="180" width="51" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6WnOCgbHMjgOmCCpCp16-182" value="文件服务器(minio)" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;" vertex="1" parent="1">
-          <mxGeometry x="410" y="90" width="53.33" height="60" as="geometry" />
+          <mxGeometry x="416.66" y="120" width="53.33" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6WnOCgbHMjgOmCCpCp16-183" value="数据存储服务器" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;" vertex="1" parent="1">
           <mxGeometry x="580" y="40" width="53.33" height="60" as="geometry" />
@@ -119,6 +119,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6WnOCgbHMjgOmCCpCp16-203" value="上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6WnOCgbHMjgOmCCpCp16-202">
+          <mxGeometry x="-0.0223" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6WnOCgbHMjgOmCCpCp16-204" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="6WnOCgbHMjgOmCCpCp16-182" target="6WnOCgbHMjgOmCCpCp16-184">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="302" y="211" as="sourcePoint" />
+            <mxPoint x="427" y="169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6WnOCgbHMjgOmCCpCp16-205" value="读取波形数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6WnOCgbHMjgOmCCpCp16-204">
           <mxGeometry x="-0.0223" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
