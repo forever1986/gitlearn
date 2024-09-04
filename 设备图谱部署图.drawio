@@ -17,12 +17,12 @@
           <mxGeometry x="738.62" y="183" width="17" height="17" as="geometry" />
         </mxCell>
         <mxCell id="6WnOCgbHMjgOmCCpCp16-181" value="解析服务器" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" vertex="1" parent="1">
-          <mxGeometry x="710.81" y="280" width="51" height="60" as="geometry" />
+          <mxGeometry x="780" y="260" width="51" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6WnOCgbHMjgOmCCpCp16-182" value="文件服务器(minio)" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;" vertex="1" parent="1">
-          <mxGeometry x="886.6600000000001" y="220" width="53.33" height="60" as="geometry" />
+          <mxGeometry x="940.0000000000001" y="260" width="53.33" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6WnOCgbHMjgOmCCpCp16-183" value="数据存储服务器" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;" vertex="1" parent="1">
+        <mxCell id="6WnOCgbHMjgOmCCpCp16-183" value="mongoDB数据" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;" vertex="1" parent="1">
           <mxGeometry x="1050" y="140" width="53.33" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6WnOCgbHMjgOmCCpCp16-184" value="转换服务器" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" vertex="1" parent="1">
@@ -79,7 +79,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WnOCgbHMjgOmCCpCp16-195" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="6WnOCgbHMjgOmCCpCp16-195" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="6WnOCgbHMjgOmCCpCp16-180" target="6WnOCgbHMjgOmCCpCp16-181">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="715" y="200" as="sourcePoint" />
             <mxPoint x="715" y="280" as="targetPoint" />
@@ -87,29 +87,18 @@
         </mxCell>
         <mxCell id="6WnOCgbHMjgOmCCpCp16-197" value="源数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6WnOCgbHMjgOmCCpCp16-195">
           <mxGeometry x="0.2879" relative="1" as="geometry">
-            <mxPoint x="-20" as="offset" />
+            <mxPoint x="7" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WnOCgbHMjgOmCCpCp16-196" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="6WnOCgbHMjgOmCCpCp16-196" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="6WnOCgbHMjgOmCCpCp16-181" target="6WnOCgbHMjgOmCCpCp16-183">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="752.78" y="280" as="sourcePoint" />
             <mxPoint x="752.78" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WnOCgbHMjgOmCCpCp16-198" value="解密后数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6WnOCgbHMjgOmCCpCp16-196">
+        <mxCell id="6WnOCgbHMjgOmCCpCp16-198" value="解密后总值数据（指标和波形）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6WnOCgbHMjgOmCCpCp16-196">
           <mxGeometry x="-0.1672" y="-3" relative="1" as="geometry">
-            <mxPoint x="25" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6WnOCgbHMjgOmCCpCp16-200" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="6WnOCgbHMjgOmCCpCp16-180" target="6WnOCgbHMjgOmCCpCp16-183">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="772" y="307" as="sourcePoint" />
-            <mxPoint x="890" y="244" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6WnOCgbHMjgOmCCpCp16-201" value="解密后数据存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6WnOCgbHMjgOmCCpCp16-200">
-          <mxGeometry x="-0.0223" y="-2" relative="1" as="geometry">
-            <mxPoint y="-11" as="offset" />
+            <mxPoint x="6" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6WnOCgbHMjgOmCCpCp16-202" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6WnOCgbHMjgOmCCpCp16-173" target="6WnOCgbHMjgOmCCpCp16-206">
