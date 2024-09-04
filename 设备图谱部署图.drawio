@@ -109,7 +109,7 @@
         </mxCell>
         <mxCell id="6WnOCgbHMjgOmCCpCp16-201" value="解密后数据存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6WnOCgbHMjgOmCCpCp16-200">
           <mxGeometry x="-0.0223" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6WnOCgbHMjgOmCCpCp16-202" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6WnOCgbHMjgOmCCpCp16-173" target="6WnOCgbHMjgOmCCpCp16-206">
