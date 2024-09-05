@@ -7,8 +7,8 @@
         <mxCell id="6WnOCgbHMjgOmCCpCp16-177" value="iipaas（云）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#123ff3;dashed=1;align=center;verticalAlign=top;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="660" y="110" width="520" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-13" value="云端存储" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#123ff3;dashed=1;align=center;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="930" y="140" width="230" height="240" as="geometry" />
+        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-13" value="大数据平台" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#123ff3;dashed=1;align=center;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="930" y="140" width="230" height="260" as="geometry" />
         </mxCell>
         <mxCell id="rGX3qO4X9z1SRiyvCJ3O-9" value="供应商" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#31bc2f;dashed=1;align=center;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="690" y="240" width="200" height="240" as="geometry" />
@@ -34,7 +34,7 @@
         <mxCell id="6WnOCgbHMjgOmCCpCp16-183" value="mongoDB数据" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;" parent="1" vertex="1">
           <mxGeometry x="972.33" y="183" width="53.33" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6WnOCgbHMjgOmCCpCp16-184" value="大数据平台" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" parent="1" vertex="1">
+        <mxCell id="6WnOCgbHMjgOmCCpCp16-184" value="大数据服务器" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" parent="1" vertex="1">
           <mxGeometry x="1029.9999999999998" y="310" width="51" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6WnOCgbHMjgOmCCpCp16-185" value="客户端" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#f5f5f5;strokeColor=#666666;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontColor=#333333;" parent="1" vertex="1">
