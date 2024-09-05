@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6WnOCgbHMjgOmCCpCp16-177" value="iipaas（云）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#123ff3;dashed=1;align=center;verticalAlign=top;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="660" y="110" width="520" height="400" as="geometry" />
+          <mxGeometry x="660" y="110" width="520" height="490" as="geometry" />
         </mxCell>
         <mxCell id="rGX3qO4X9z1SRiyvCJ3O-13" value="大数据平台" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#123ff3;dashed=1;align=center;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="930" y="140" width="230" height="260" as="geometry" />
+          <mxGeometry x="930" y="140" width="230" height="250" as="geometry" />
         </mxCell>
         <mxCell id="rGX3qO4X9z1SRiyvCJ3O-9" value="供应商" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#31bc2f;dashed=1;align=center;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="690" y="240" width="200" height="240" as="geometry" />
@@ -29,13 +29,13 @@
           <mxGeometry x="827" y="340" width="51" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6WnOCgbHMjgOmCCpCp16-182" value="文件服务器(minio)" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="183" width="53.33" height="60" as="geometry" />
+          <mxGeometry x="1080" y="177" width="53.33" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6WnOCgbHMjgOmCCpCp16-183" value="mongoDB数据" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;" parent="1" vertex="1">
-          <mxGeometry x="972.33" y="183" width="53.33" height="60" as="geometry" />
+          <mxGeometry x="972.33" y="177" width="53.33" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6WnOCgbHMjgOmCCpCp16-184" value="大数据服务器" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" parent="1" vertex="1">
-          <mxGeometry x="1029.9999999999998" y="310" width="51" height="60" as="geometry" />
+          <mxGeometry x="1029.9999999999998" y="299" width="51" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6WnOCgbHMjgOmCCpCp16-185" value="客户端" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#f5f5f5;strokeColor=#666666;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1270" y="420" width="40" height="40" as="geometry" />
@@ -158,12 +158,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rGX3qO4X9z1SRiyvCJ3O-22" value="gateway转发鉴权&lt;div&gt;iicloud.sinochem.com&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.nat_gateway;" vertex="1" parent="1">
-          <mxGeometry x="940" y="420" width="40" height="40" as="geometry" />
+          <mxGeometry x="990" y="420" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rGX3qO4X9z1SRiyvCJ3O-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="rGX3qO4X9z1SRiyvCJ3O-22" target="6WnOCgbHMjgOmCCpCp16-181">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="868" y="600" as="sourcePoint" />
             <mxPoint x="929" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-28" value="查询/下发指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rGX3qO4X9z1SRiyvCJ3O-23">
+          <mxGeometry x="-0.0101" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-25" value="大数据服务器" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" vertex="1" parent="1">
+          <mxGeometry x="826.9999999999998" y="500" width="51" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.714;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.615;entryY=0.673;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rGX3qO4X9z1SRiyvCJ3O-9" target="6WnOCgbHMjgOmCCpCp16-177">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="400" as="sourcePoint" />
+            <mxPoint x="640" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-27" value="获取设备数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rGX3qO4X9z1SRiyvCJ3O-26">
+          <mxGeometry x="-0.0438" y="-1" relative="1" as="geometry">
+            <mxPoint x="-12" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="rGX3qO4X9z1SRiyvCJ3O-22" target="rGX3qO4X9z1SRiyvCJ3O-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="898" y="421" as="sourcePoint" />
+            <mxPoint x="990" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-30" value="获取设备数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rGX3qO4X9z1SRiyvCJ3O-29">
+          <mxGeometry x="-0.0438" y="-1" relative="1" as="geometry">
+            <mxPoint x="-12" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
