@@ -158,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rGX3qO4X9z1SRiyvCJ3O-22" value="gateway转发鉴权&lt;div&gt;iicloud.sinochem.com&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.nat_gateway;" vertex="1" parent="1">
-          <mxGeometry x="990" y="420" width="40" height="40" as="geometry" />
+          <mxGeometry x="1060" y="430" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rGX3qO4X9z1SRiyvCJ3O-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="rGX3qO4X9z1SRiyvCJ3O-22" target="6WnOCgbHMjgOmCCpCp16-181">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -171,10 +171,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-25" value="大数据服务器" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" vertex="1" parent="1">
-          <mxGeometry x="826.9999999999998" y="500" width="51" height="60" as="geometry" />
+        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-25" value="iipaas服务器" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" vertex="1" parent="1">
+          <mxGeometry x="859.9999999999998" y="510" width="51" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.714;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.615;entryY=0.673;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rGX3qO4X9z1SRiyvCJ3O-9" target="6WnOCgbHMjgOmCCpCp16-177">
+        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.714;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rGX3qO4X9z1SRiyvCJ3O-9" target="rGX3qO4X9z1SRiyvCJ3O-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="870" y="400" as="sourcePoint" />
             <mxPoint x="640" y="560" as="targetPoint" />
