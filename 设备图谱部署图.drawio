@@ -272,10 +272,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-55" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="rGX3qO4X9z1SRiyvCJ3O-105" edge="1">
+        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-55" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="752.78" y="860" as="sourcePoint" />
-            <mxPoint x="790" y="780" as="targetPoint" />
+            <mxPoint x="780" y="850" as="sourcePoint" />
+            <mxPoint x="780" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rGX3qO4X9z1SRiyvCJ3O-56" value="解密后数据(指标和波形)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rGX3qO4X9z1SRiyvCJ3O-55" vertex="1" connectable="0">
@@ -344,7 +344,7 @@
             <mxPoint x="1" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-72" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=default;" parent="1" edge="1">
+        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-72" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=default;exitX=0.333;exitY=0.138;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="rGX3qO4X9z1SRiyvCJ3O-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770.9722777991537" y="865" as="sourcePoint" />
             <mxPoint x="748.9353982300884" y="780" as="targetPoint" />
@@ -443,7 +443,7 @@
           <mxGeometry x="970" y="720" width="56" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rGX3qO4X9z1SRiyvCJ3O-105" value="&lt;b&gt;供应商服务器&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" parent="1" vertex="1">
-          <mxGeometry x="762" y="860" width="56" height="70" as="geometry" />
+          <mxGeometry x="750" y="860" width="56" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rGX3qO4X9z1SRiyvCJ3O-106" value="&lt;b&gt;iipaas服务&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" parent="1" vertex="1">
           <mxGeometry x="874" y="1099" width="56" height="70" as="geometry" />
