@@ -615,7 +615,7 @@
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-43" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;&lt;b&gt;供应商数据存储&lt;/b&gt;&lt;/span&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
           <mxGeometry x="734.6099999999999" y="1710" width="54.94" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="uW_Bem1OiyulsZ8s4xy1-44" value="&lt;b style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;接受数据服务器&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-44" value="&lt;b style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;iipaas数据接受服务器&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
           <mxGeometry x="1058.66" y="1417" width="56" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-45" value="&lt;b&gt;供应商解析服务器&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
