@@ -464,7 +464,7 @@
           <mxGeometry x="80" y="790" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;iipaas（云）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#123ff3;dashed=1;align=center;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="675.53" y="1350" width="600" height="550" as="geometry" />
+          <mxGeometry x="675.53" y="1350" width="600" height="510" as="geometry" />
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-3" value="供应商集群" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#31bc2f;dashed=1;align=center;verticalAlign=bottom;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="690" y="1520" width="330" height="310" as="geometry" />
@@ -714,21 +714,21 @@
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-132" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#fc1900;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="376.53" y="1840" as="sourcePoint" />
-            <mxPoint x="566.5300000000001" y="1840" as="targetPoint" />
+            <mxPoint x="376.53" y="1802" as="sourcePoint" />
+            <mxPoint x="566.5300000000001" y="1802" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-133" value="红色流程代表数据上报流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff1900;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="393" y="1808" width="163" height="30" as="geometry" />
+          <mxGeometry x="393" y="1770" width="163" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-134" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0000ff;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="376.53" y="1882" as="sourcePoint" />
-            <mxPoint x="566.5300000000001" y="1882" as="targetPoint" />
+            <mxPoint x="376.53" y="1844" as="sourcePoint" />
+            <mxPoint x="566.5300000000001" y="1844" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uW_Bem1OiyulsZ8s4xy1-135" value="红色流程代表前端查询流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000ff;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="393" y="1850" width="163" height="30" as="geometry" />
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-135" value="蓝色流程代表前端查询流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000ff;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="393" y="1812" width="163" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-136" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;iipaas（云）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#123ff3;dashed=1;align=center;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="675.53" y="2030" width="600" height="550" as="geometry" />
@@ -994,7 +994,7 @@
             <mxPoint x="566.5300000000001" y="2562" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uW_Bem1OiyulsZ8s4xy1-196" value="红色流程代表前端查询流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000ff;textShadow=1;" vertex="1" parent="1">
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-196" value="蓝色流程代表前端查询流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000ff;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="393" y="2530" width="163" height="30" as="geometry" />
         </mxCell>
       </root>
