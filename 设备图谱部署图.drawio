@@ -998,7 +998,7 @@
             <mxPoint x="566.5300000000001" y="1882" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uW_Bem1OiyulsZ8s4xy1-135" value="红色流程代表数据上报流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000ff;textShadow=1;" vertex="1" parent="1">
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-135" value="红色流程代表前端查询流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000ff;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="393" y="1850" width="163" height="30" as="geometry" />
         </mxCell>
       </root>
