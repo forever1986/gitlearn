@@ -1190,6 +1190,28 @@
             <mxPoint x="-3" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rbGiGUv4YcKunHcMZAda-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.619;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="uW_Bem1OiyulsZ8s4xy1-201" target="uW_Bem1OiyulsZ8s4xy1-231">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="473" y="1610" as="sourcePoint" />
+            <mxPoint x="777" y="1605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbGiGUv4YcKunHcMZAda-8" value="HTTP 上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rbGiGUv4YcKunHcMZAda-7">
+          <mxGeometry x="-0.0223" y="-2" relative="1" as="geometry">
+            <mxPoint x="-3" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbGiGUv4YcKunHcMZAda-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.979;exitY=0.681;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="uW_Bem1OiyulsZ8s4xy1-341" target="uW_Bem1OiyulsZ8s4xy1-359">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474" y="2293" as="sourcePoint" />
+            <mxPoint x="916" y="2135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbGiGUv4YcKunHcMZAda-10" value="HTTP 上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rbGiGUv4YcKunHcMZAda-9">
+          <mxGeometry x="-0.0223" y="-2" relative="1" as="geometry">
+            <mxPoint x="-3" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
