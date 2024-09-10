@@ -680,7 +680,7 @@
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-59" value="① 边缘端工厂通过MQTT协议做数据上报" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="506.5" y="1390" width="129" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uW_Bem1OiyulsZ8s4xy1-60" value="②供应商解析服务器订阅上报数据，并解析计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-60" value="②供应商解析服务器订阅上报数据，并解密计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="635.5" y="1497" width="144" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-61" value="③供应商自身存储并产生报警" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" vertex="1" parent="1">
@@ -875,7 +875,7 @@
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-244" value="① 边缘端工厂通过MQTT协议做数据上报" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="2060" width="129" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uW_Bem1OiyulsZ8s4xy1-245" value="②供应商解析服务器订阅上报数据，并解析计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-245" value="②供应商解密服务器订阅上报数据，并解析计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="789.55" y="2071.5" width="144" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-250" value="①客户端通过gateway转发查询和下发指令到供应商前端服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000ff;textShadow=0;" vertex="1" parent="1">
@@ -1106,7 +1106,7 @@
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-370" value="① 边缘端工厂通过MQTT协议做数据上报" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="2740" width="129" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uW_Bem1OiyulsZ8s4xy1-371" value="②供应商解析服务器订阅上报数据，并解析计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-371" value="②供应商解析服务器订阅上报数据，并解密计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="789.55" y="2751.5" width="144" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-372" value="①客户端通过gateway转发查询和下发指令到供应商前端服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000ff;textShadow=0;" vertex="1" parent="1">
