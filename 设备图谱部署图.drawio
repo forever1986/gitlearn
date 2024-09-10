@@ -683,7 +683,7 @@
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-60" value="②供应商解析服务器订阅上报数据，并解析计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="635.5" y="1497" width="144" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uW_Bem1OiyulsZ8s4xy1-61" value="③供应商自身存储并产生报警" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=1;" vertex="1" parent="1">
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-61" value="③供应商自身存储并产生报警" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="755.62" y="1686" width="144" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-62" value="④解密后数据，通过计算后结果数据发送到MQTT Broker" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" vertex="1" parent="1">
@@ -1211,6 +1211,9 @@
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-395" value="③通过路由转换&lt;div&gt;不同供应商API服务&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000ff;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="1151" y="2980" width="186.47" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-396" value="⑤统一存储中获取数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000ff;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="994.2400000000002" y="2990" width="186.47" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
