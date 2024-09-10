@@ -464,7 +464,7 @@
           <mxGeometry x="1440" y="970" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rGX3qO4X9z1SRiyvCJ3O-110" value="users" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1" parent="1" vertex="1">
-          <mxGeometry x="827" y="3690" width="100" height="100" as="geometry" />
+          <mxGeometry x="823.06" y="3350" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rGX3qO4X9z1SRiyvCJ3O-111" value="users" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1" parent="1" vertex="1">
           <mxGeometry x="80" y="790" width="100" height="100" as="geometry" />
@@ -1214,6 +1214,9 @@
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-396" value="⑤统一存储中获取数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000ff;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="994.2400000000002" y="2990" width="186.47" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-397" value="④统一存储中获取数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000ff;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1004.5300000000002" y="2325" width="186.47" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
