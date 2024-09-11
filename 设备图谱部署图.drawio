@@ -300,7 +300,7 @@
             <mxPoint x="-3" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-61" value="公网代理" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=k_proxy;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="rGX3qO4X9z1SRiyvCJ3O-61" value="Direct Connect&lt;div&gt;直连&lt;/div&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=k_proxy;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="526" y="732" width="35.42" height="34" as="geometry" />
         </mxCell>
         <mxCell id="rGX3qO4X9z1SRiyvCJ3O-63" value="传感器" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sensor;fillColor=#5294CF;gradientColor=none;fontStyle=1" parent="1" vertex="1">
