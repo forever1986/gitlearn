@@ -512,7 +512,7 @@
             <mxPoint x="726.3399999999999" y="1452.3488325156804" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uW_Bem1OiyulsZ8s4xy1-22" value="MQTT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uW_Bem1OiyulsZ8s4xy1-21" vertex="1" connectable="0">
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-22" value="MQTT/HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uW_Bem1OiyulsZ8s4xy1-21" vertex="1" connectable="0">
           <mxGeometry x="-0.2952" y="-3" relative="1" as="geometry">
             <mxPoint y="-14" as="offset" />
           </mxGeometry>
@@ -638,8 +638,8 @@
             <mxPoint x="13" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uW_Bem1OiyulsZ8s4xy1-59" value="① 边缘端工厂通过MQTT协议做数据上报" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" parent="1" vertex="1">
-          <mxGeometry x="506.5" y="1390" width="129" height="30" as="geometry" />
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-59" value="① 边缘端工厂通过MQTT协议/HTTP协议做数据上报" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="506.5" y="1401.5" width="153.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-60" value="②供应商解析服务器订阅上报数据，并解密计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="635.5" y="1497" width="144" height="30" as="geometry" />
@@ -754,7 +754,7 @@
             <mxPoint x="726.3399999999999" y="2122.3488325156804" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uW_Bem1OiyulsZ8s4xy1-214" value="MQTT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uW_Bem1OiyulsZ8s4xy1-213" vertex="1" connectable="0">
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-214" value="MQTT/HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uW_Bem1OiyulsZ8s4xy1-213" vertex="1" connectable="0">
           <mxGeometry x="-0.2952" y="-3" relative="1" as="geometry">
             <mxPoint y="-14" as="offset" />
           </mxGeometry>
@@ -833,8 +833,8 @@
             <mxPoint x="12" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uW_Bem1OiyulsZ8s4xy1-244" value="① 边缘端工厂通过MQTT协议做数据上报" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="2060" width="129" height="30" as="geometry" />
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-244" value="① 边缘端工厂通过MQTT协议/HTTP协议做数据上报" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="2070" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-245" value="②供应商解密服务器订阅上报数据，并解析计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="789.55" y="2071.5" width="144" height="30" as="geometry" />
@@ -985,7 +985,7 @@
             <mxPoint x="726.3399999999999" y="2802.3488325156804" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uW_Bem1OiyulsZ8s4xy1-352" value="MQTT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uW_Bem1OiyulsZ8s4xy1-351" vertex="1" connectable="0">
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-352" value="MQTT/HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uW_Bem1OiyulsZ8s4xy1-351" vertex="1" connectable="0">
           <mxGeometry x="-0.2952" y="-3" relative="1" as="geometry">
             <mxPoint y="-14" as="offset" />
           </mxGeometry>
@@ -1064,8 +1064,8 @@
             <mxPoint x="12" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uW_Bem1OiyulsZ8s4xy1-370" value="① 边缘端工厂通过MQTT协议做数据上报" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="2740" width="129" height="30" as="geometry" />
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-370" value="① 边缘端工厂通过MQTT协议/HTTP协议做数据上报" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="515.53" y="2750" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-371" value="②供应商解析服务器订阅上报数据，并解密计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="789.55" y="2751.5" width="144" height="30" as="geometry" />
@@ -1178,39 +1178,6 @@
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-397" value="④统一存储中获取数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000ff;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="1004.5300000000002" y="2325" width="186.47" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rbGiGUv4YcKunHcMZAda-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.987;exitY=0.583;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uW_Bem1OiyulsZ8s4xy1-4" target="uW_Bem1OiyulsZ8s4xy1-45">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="481.53" y="1600" as="sourcePoint" />
-            <mxPoint x="541.53" y="1601" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rbGiGUv4YcKunHcMZAda-2" value="HTTP 上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rbGiGUv4YcKunHcMZAda-1">
-          <mxGeometry x="-0.0223" y="-2" relative="1" as="geometry">
-            <mxPoint x="-3" y="-13" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rbGiGUv4YcKunHcMZAda-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.619;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="uW_Bem1OiyulsZ8s4xy1-201" target="uW_Bem1OiyulsZ8s4xy1-231">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="473" y="1610" as="sourcePoint" />
-            <mxPoint x="777" y="1605" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rbGiGUv4YcKunHcMZAda-8" value="HTTP 上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rbGiGUv4YcKunHcMZAda-7">
-          <mxGeometry x="-0.0223" y="-2" relative="1" as="geometry">
-            <mxPoint x="-3" y="-13" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rbGiGUv4YcKunHcMZAda-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.979;exitY=0.681;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="uW_Bem1OiyulsZ8s4xy1-341" target="uW_Bem1OiyulsZ8s4xy1-359">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="474" y="2293" as="sourcePoint" />
-            <mxPoint x="916" y="2135" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rbGiGUv4YcKunHcMZAda-10" value="HTTP 上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rbGiGUv4YcKunHcMZAda-9">
-          <mxGeometry x="-0.0223" y="-2" relative="1" as="geometry">
-            <mxPoint x="-3" y="-13" as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
