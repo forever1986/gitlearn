@@ -512,7 +512,7 @@
             <mxPoint x="726.3399999999999" y="1452.3488325156804" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uW_Bem1OiyulsZ8s4xy1-22" value="MQTT/HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uW_Bem1OiyulsZ8s4xy1-21" vertex="1" connectable="0">
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-22" value="MQTT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uW_Bem1OiyulsZ8s4xy1-21" vertex="1" connectable="0">
           <mxGeometry x="-0.2952" y="-3" relative="1" as="geometry">
             <mxPoint y="-14" as="offset" />
           </mxGeometry>
@@ -754,7 +754,7 @@
             <mxPoint x="726.3399999999999" y="2122.3488325156804" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uW_Bem1OiyulsZ8s4xy1-214" value="MQTT/HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uW_Bem1OiyulsZ8s4xy1-213" vertex="1" connectable="0">
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-214" value="MQTT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uW_Bem1OiyulsZ8s4xy1-213" vertex="1" connectable="0">
           <mxGeometry x="-0.2952" y="-3" relative="1" as="geometry">
             <mxPoint y="-14" as="offset" />
           </mxGeometry>
@@ -982,7 +982,7 @@
             <mxPoint x="726.3399999999999" y="2802.3488325156804" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uW_Bem1OiyulsZ8s4xy1-352" value="MQTT/HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uW_Bem1OiyulsZ8s4xy1-351" vertex="1" connectable="0">
+        <mxCell id="uW_Bem1OiyulsZ8s4xy1-352" value="MQTT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uW_Bem1OiyulsZ8s4xy1-351" vertex="1" connectable="0">
           <mxGeometry x="-0.2952" y="-3" relative="1" as="geometry">
             <mxPoint y="-14" as="offset" />
           </mxGeometry>
