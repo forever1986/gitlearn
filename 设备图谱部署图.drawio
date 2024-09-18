@@ -514,7 +514,7 @@
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-22" value="MQTT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uW_Bem1OiyulsZ8s4xy1-21" vertex="1" connectable="0">
           <mxGeometry x="-0.2952" y="-3" relative="1" as="geometry">
-            <mxPoint y="-14" as="offset" />
+            <mxPoint x="21" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uW_Bem1OiyulsZ8s4xy1-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=default;" parent="1" source="uW_Bem1OiyulsZ8s4xy1-43" edge="1">
@@ -1238,6 +1238,17 @@
         <mxCell id="7LkPBY52FNWToEpfa2hY-16" value="获取基础数据(用户、设备等)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7LkPBY52FNWToEpfa2hY-15" vertex="1" connectable="0">
           <mxGeometry x="-0.1672" y="-3" relative="1" as="geometry">
             <mxPoint x="34" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dFs38B7mJyMbVBfL0ym1-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uW_Bem1OiyulsZ8s4xy1-17" target="uW_Bem1OiyulsZ8s4xy1-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="587" y="1463" as="sourcePoint" />
+            <mxPoint x="763" y="1465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dFs38B7mJyMbVBfL0ym1-2" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dFs38B7mJyMbVBfL0ym1-1">
+          <mxGeometry x="-0.2952" y="-3" relative="1" as="geometry">
+            <mxPoint x="19" y="32" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
