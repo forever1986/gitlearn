@@ -1429,7 +1429,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RSb0S5Pcgb4BXhrygTZj-4" value="工厂（边）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#646264;dashed=1;align=center;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1750" y="4430" width="210" height="310" as="geometry" />
+          <mxGeometry x="1750" y="4280" width="210" height="460" as="geometry" />
         </mxCell>
         <mxCell id="RSb0S5Pcgb4BXhrygTZj-36" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#fc1900;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1453,10 +1453,10 @@
           <mxGeometry x="339.78999999999996" y="4220" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RSb0S5Pcgb4BXhrygTZj-73" value="&lt;b&gt;MES&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="1827" y="4481" width="56" height="70" as="geometry" />
+          <mxGeometry x="1827" y="4341" width="56" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RSb0S5Pcgb4BXhrygTZj-74" value="&lt;b&gt;其它业务系统&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="1827" y="4600" width="56" height="70" as="geometry" />
+          <mxGeometry x="1827" y="4632" width="56" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RSb0S5Pcgb4BXhrygTZj-75" value="&lt;b&gt;化备智&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
           <mxGeometry x="1499" y="4329" width="56" height="70" as="geometry" />
@@ -1723,6 +1723,23 @@
           <mxGeometry x="0.1546" y="-3" relative="1" as="geometry">
             <mxPoint x="-13" y="-3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RSb0S5Pcgb4BXhrygTZj-171" value="&lt;b&gt;WMS&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="1827" y="4479.5" width="56" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RSb0S5Pcgb4BXhrygTZj-172" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#0000ff;" edge="1" parent="1" source="RSb0S5Pcgb4BXhrygTZj-160" target="RSb0S5Pcgb4BXhrygTZj-171">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1730" y="4512" as="sourcePoint" />
+            <mxPoint x="1837" y="4386" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSb0S5Pcgb4BXhrygTZj-173" value="③ 订阅" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#0000ff;" vertex="1" connectable="0" parent="RSb0S5Pcgb4BXhrygTZj-172">
+          <mxGeometry x="0.1427" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSb0S5Pcgb4BXhrygTZj-174" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1810" y="4590" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
