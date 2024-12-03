@@ -1491,16 +1491,15 @@
         <mxCell id="RSb0S5Pcgb4BXhrygTZj-106" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
           <mxGeometry x="1178.94" y="4613" width="54.94" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="RSb0S5Pcgb4BXhrygTZj-107" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RSb0S5Pcgb4BXhrygTZj-83" target="RSb0S5Pcgb4BXhrygTZj-99">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="724.25" y="4530.25" as="sourcePoint" />
-            <mxPoint x="872.25" y="4719.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RSb0S5Pcgb4BXhrygTZj-112" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RSb0S5Pcgb4BXhrygTZj-129" target="RSb0S5Pcgb4BXhrygTZj-103">
+        <mxCell id="RSb0S5Pcgb4BXhrygTZj-112" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RSb0S5Pcgb4BXhrygTZj-99" target="RSb0S5Pcgb4BXhrygTZj-129">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1181.0300000000002" y="4539.5" as="sourcePoint" />
             <mxPoint x="871" y="4660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSb0S5Pcgb4BXhrygTZj-158" value="读取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RSb0S5Pcgb4BXhrygTZj-112">
+          <mxGeometry x="0.1546" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RSb0S5Pcgb4BXhrygTZj-113" value="&lt;b&gt;客户端&lt;/b&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_desktop;pointerEvents=1" vertex="1" parent="1">
@@ -1652,6 +1651,28 @@
         </mxCell>
         <mxCell id="RSb0S5Pcgb4BXhrygTZj-154" value="② 查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#fc1900;fontSize=12;" vertex="1" connectable="0" parent="RSb0S5Pcgb4BXhrygTZj-153">
           <mxGeometry x="0.0937" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSb0S5Pcgb4BXhrygTZj-155" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RSb0S5Pcgb4BXhrygTZj-99" target="RSb0S5Pcgb4BXhrygTZj-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="4580" as="sourcePoint" />
+            <mxPoint x="1100" y="4530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSb0S5Pcgb4BXhrygTZj-157" value="读取/写入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RSb0S5Pcgb4BXhrygTZj-155">
+          <mxGeometry x="0.2985" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSb0S5Pcgb4BXhrygTZj-156" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RSb0S5Pcgb4BXhrygTZj-103" target="RSb0S5Pcgb4BXhrygTZj-129">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="871" y="4598" as="sourcePoint" />
+            <mxPoint x="870" y="4523" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSb0S5Pcgb4BXhrygTZj-159" value="读取/写入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RSb0S5Pcgb4BXhrygTZj-156">
+          <mxGeometry x="-0.1791" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
