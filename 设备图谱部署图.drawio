@@ -463,7 +463,7 @@
           <mxGeometry x="1065" y="1017" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rGX3qO4X9z1SRiyvCJ3O-109" value="users" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1" parent="1" vertex="1">
-          <mxGeometry x="1820" y="973.5" width="100" height="100" as="geometry" />
+          <mxGeometry x="2210" y="999" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rGX3qO4X9z1SRiyvCJ3O-110" value="users" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1" parent="1" vertex="1">
           <mxGeometry x="868.06" y="4890" width="100" height="100" as="geometry" />
