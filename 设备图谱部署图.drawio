@@ -1764,6 +1764,12 @@
         <mxCell id="KmCiRol4bmTLBNcW5dnw-11" value="其它业务系统" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;fontColor=#646264;" vertex="1" parent="1">
           <mxGeometry x="1830.45" y="4640.25" width="49.09" height="57.75" as="geometry" />
         </mxCell>
+        <mxCell id="KmCiRol4bmTLBNcW5dnw-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RSb0S5Pcgb4BXhrygTZj-123" target="RSb0S5Pcgb4BXhrygTZj-165">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="961" y="4408" as="sourcePoint" />
+            <mxPoint x="1236" y="4497" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
